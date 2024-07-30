@@ -1,0 +1,178 @@
+[
+    {
+        "question": "What is another name for acid sphingomyelinase deficiency (ASMD)?",
+        "exact_answer": [
+            "Niemann-Pick disease type A and type B"
+        ],
+        "generated_answer": "\"Niemann-Pick disease\", \"NPD A\", \"NPD B\""
+    },
+    {
+        "question": "What rare disease is associated with a mutation in the GPC6 gene on chromosome 13?",
+        "exact_answer": [
+            "omodysplasia"
+        ],
+        "generated_answer": "\"autosomal-recessive omodysplasia\", \"endochondral ossification\", \"recessive omodysplasia\", \"autosomal-recessive\", \"chromosome 13\", \"glypican 6\", \"heparan-sulfate proteoglycan glypican 6\", \"short-limbed short stature\", \"craniofacial dysmorphism\", \"variable developmental delay\", \"point mutations\", \"larger genomic rearrangements\", \"genetic condition\""
+    },
+    {
+        "question": "What gene is mutated in Huntington's Disease patients?",
+        "exact_answer": [
+            "HTT gene encoding the protein huntingtin"
+        ],
+        "generated_answer": "\"IT15\", \"HTT\", \"Htt\""
+    },
+    {
+        "question": "Which disease is treated with ZMapp?",
+        "exact_answer": [
+            "Ebola virus infection"
+        ],
+        "generated_answer": "\"Ebola virus disease\", \"Ebola hemorrhagic fever\""
+    },
+    {
+        "question": "How many genes belong to the KRAB-ZNF family in the human genome?",
+        "exact_answer": [
+            "70"
+        ],
+        "generated_answer": "\"70\", \"61\", \"4\", \"3\", \"2\""
+    },
+    {
+        "question": "Which molecule is targeted by Asciminib?",
+        "exact_answer": [
+            "BCR-ABL tyrosine kinase"
+        ],
+        "generated_answer": "\"BCR-ABL1\", \"myristate pocket\", \"ATP-site mutations\", \"ABL1\", \"myristoyl-binding pocket\""
+    },
+    {
+        "question": "What is the trade name of sildenafil?",
+        "exact_answer": [
+            "Viagra"
+        ],
+        "generated_answer": "\"Viagra\u00ae\""
+    },
+    {
+        "question": "How large is the SARS-CoV  proteome?",
+        "exact_answer": [
+            "The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products."
+        ],
+        "generated_answer": "\"30\", \"14\", \"4\""
+    },
+    {
+        "question": "Are male or female persons more prone to autoimmunity?",
+        "exact_answer": [
+            "Female"
+        ],
+        "generated_answer": "\"female\", \"80%\""
+    },
+    {
+        "question": "Which is the phenotype of the disease fibrodysplasia ossificans progressiva?",
+        "exact_answer": [
+            "3.\tFibrodysplasia ossificans progressiva (FOP), a congenital heterotopic ossification (HO) syndrome caused by gain-of-function mutations of bone morphogenetic protein (BMP) type I receptor ACVR1, manifests with progressive ossification of skeletal muscles, tendons, ligaments, and joints."
+        ],
+        "generated_answer": "\"Metaphyseal bony outgrowths\", \"Fibrodysplasia ossificans progressiva\", \"FOP\", \"BMP\", \"ACVR1\""
+    },
+    {
+        "question": "What does the boxed warning of pimavanserin say?",
+        "exact_answer": [
+            "Risk of death associated with antipsychotic use in elderly patients with dementia"
+        ],
+        "generated_answer": "\"risk of death\", \"antipsychotic\", \"elderly patients\", \"dementia\""
+    },
+    {
+        "question": "What is dystopia canthorum?",
+        "exact_answer": [
+            "a prominent broad nasal root with increased intercanthal distance."
+        ],
+        "generated_answer": "\"lateral displacement of the inner canthi of the eyes\", \"lateral displacement of the inner canthi\""
+    },
+    {
+        "question": "How many annotated conserved human lncRNAs come from ancestral protein-coding genes?",
+        "exact_answer": [
+            "55"
+        ],
+        "generated_answer": "\"55\", \"new lncRNAs\", \"non-negligible\", \"source\", \"loss of coding potential\""
+    },
+    {
+        "question": "What is the LINCS Program?",
+        "exact_answer": [
+            "NIH-funded program to generate a library of integrated, network-based, cellular signatures"
+        ],
+        "generated_answer": "\"NIH-funded\", \"Library of Integrated Network-based Cellular Signatures\", \"Common Fund\", \"cellular signatures\", \"cellular responses\", \"human diseases\", \"systems biology\", \"cell lines\", \"perturbations\""
+    },
+    {
+        "question": "What is the protein product of the gene GBA2?",
+        "exact_answer": [
+            "The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose."
+        ],
+        "generated_answer": "\"non-lysosomal glucosylceramidase\", \"NLGase\""
+    },
+    {
+        "question": "What has pimavanserin been approved for by the FDA (2018)?",
+        "exact_answer": [
+            "hallucinations and delusions associated with Parkinson's disease psychosis"
+        ],
+        "generated_answer": "\"hallucinations and delusions associated with Parkinson's disease psychosis\""
+    },
+    {
+        "question": "Which diagnostic test is approved for coronavirus infection screening?",
+        "exact_answer": [
+            "real-time reverse transcription-PCR"
+        ],
+        "generated_answer": "\"rRT-PCR\", \"PCR\""
+    },
+    {
+        "question": "Which molecule is inhibited by encorafenib?",
+        "exact_answer": [
+            "BRAF"
+        ],
+        "generated_answer": "\"BRAF\", \"MEK\""
+    },
+    {
+        "question": "What is the chromosomal location of the LDL receptor gene associated with autosomal dominant Familial Hypercholesterolemia?",
+        "exact_answer": [
+            "short arm of chromosome 19"
+        ],
+        "generated_answer": "\"19\", \"2\""
+    },
+    {
+        "question": "What molecules are the multidrug transporter MDR3 targeting?",
+        "exact_answer": [
+            "Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator"
+        ],
+        "generated_answer": "\"phospholipid\", \"phosphatidylcholine\""
+    },
+    {
+        "question": "What bacteria is associated with Gastric cancer and peptic ulcers?",
+        "exact_answer": [
+            "helicobacter pylori"
+        ],
+        "generated_answer": "\"Helicobacter Pylori\", \"H. pylori\""
+    },
+    {
+        "question": "What is the purpose of the 123 dihydrorhodamine assay?",
+        "exact_answer": [
+            "cell respiratory burst",
+            "oxidative burst"
+        ],
+        "generated_answer": "\"Detection of inheritance pattern in thirty-three Mexican males with chronic granulomatous disease\", \"screening tests for this disorder\", \"useful diagnostic tool for CGD that can detect absent or reduced NADPH oxidase activity in stimulated phagocytes\", \"evaluate intracellular reactive oxygen species\", \"assess neutrophil activation mediated by anti-PR3 antibodies\""
+    },
+    {
+        "question": "What is the mode of action of filgotinib?",
+        "exact_answer": [
+            "JAK1 inhibitor"
+        ],
+        "generated_answer": "\"selective inhibitor of Janus kinase 1 (JAK1)\", \"treatment of rheumatoid arthritis and Crohn's disease\""
+    },
+    {
+        "question": "Is Huntington's disease caused by a dominate or recessive gene?",
+        "exact_answer": [
+            "dominant"
+        ],
+        "generated_answer": "\"autosomal dominant\", \"autosomal-dominant\", \"autosomal dominantly-inherited\", \"dominant\", \"dominance\""
+    },
+    {
+        "question": "What is the genetic basis for Cornelia de Lange's syndrome?",
+        "exact_answer": [
+            "Mutations in genes that are associated with cohesin"
+        ],
+        "generated_answer": "\"NIPBL\", \"SMC1A\", \"SMC3\", \"RAD21\", \"HDAC8\""
+    }
+]

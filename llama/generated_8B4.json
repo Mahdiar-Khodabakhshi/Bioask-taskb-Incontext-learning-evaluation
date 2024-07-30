@@ -1,0 +1,244 @@
+[
+    {
+        "question": "What disease is associated with mutations in the MECP2 transcription factor?",
+        "exact_answer": [
+            "Rett syndrome"
+        ],
+        "generated_answer": "\"Rett syndrome\", \"neurodevelopmental disorder\", \"Methyl-CpG-binding protein 2\", \"MECP2\", \"autism spectrum disorder\""
+    },
+    {
+        "question": "Which receptor is inhibited by bimagrumab?",
+        "exact_answer": [
+            "activin type II receptors"
+        ],
+        "generated_answer": "\"Activin type II receptors\", \"Activin receptor type II\", \"Activin receptor type IIA\", \"Activin receptor type IIB\", \"Activin receptor type II (ActRII)\""
+    },
+    {
+        "question": "Where is the yeast transpozable element Ty3 preferentially inserted?",
+        "exact_answer": [
+            "the promoters of RNA PolIII-transcribed genes"
+        ],
+        "generated_answer": "\"tRNA genes\", \"5S and U6 RNA genes\", \"transcription initiation region of RNA polymerase III\""
+    },
+    {
+        "question": "When was Afrezza approved by the FDA?",
+        "exact_answer": [
+            "June 2014"
+        ],
+        "generated_answer": "\"2014\", \"2015\""
+    },
+    {
+        "question": "When was Fluzone Intradermal replaced with Fluzone Intradermal Quadrivalent?",
+        "exact_answer": [
+            "In advance of the 2015-2016 season"
+        ],
+        "generated_answer": "\"2015-2016 season\""
+    },
+    {
+        "question": "How many proteins have been queried for protein partners by the Drosophila protein interaction map (DPiM)?",
+        "exact_answer": [
+            "5,000"
+        ],
+        "generated_answer": "\"5,000\", \"nearly 5,000\", \"thousands\""
+    },
+    {
+        "question": "Which is the target of belimumab in Systemic Lupus Erythematosus treatment?",
+        "exact_answer": [
+            "B-cell activating factor",
+            "BAFF",
+            "BLyS (B-lymphocyte stimulator)"
+        ],
+        "generated_answer": "\"BLyS\", \"BAFF\", \"B-cell survival factor\", \"BLyS-specific inhibitor\", \"monoclonal antibody\""
+    },
+    {
+        "question": "Salzburg EEG criteria are used to diagnose which disorder?",
+        "exact_answer": [
+            "Nonconvulsive Status Epilepticus"
+        ],
+        "generated_answer": "\"Nonconvulsive status epilepticus\", \"NCSE\""
+    },
+    {
+        "question": "Central Vein Sign is characteristic to which disease?",
+        "exact_answer": [
+            "multiple sclerosis"
+        ],
+        "generated_answer": "\"Multiple Sclerosis\", \"Inflammatory Vasculopathies\""
+    },
+    {
+        "question": "Which is the catalytic activity of the protein encoded by the gene KMT2C? ",
+        "exact_answer": [
+            "lysine methyltransferase activity"
+        ],
+        "generated_answer": "\"histone H3-K4 methyltransferase activity\", \"histone methyltransferase activity\", \"lysine N-methyltransferase activity\", \"methyltransferase activity\", \"transferase activity\""
+    },
+    {
+        "question": "Which is the most mutated gene in dilated cardiomyopathy (DCM)?",
+        "exact_answer": [
+            "LMNA",
+            "lamin A/C"
+        ],
+        "generated_answer": "\"LMNA\", \"TTN\""
+    },
+    {
+        "question": "Which type of cells protect Haematopoietic stem and progenitor cells (HSPCs) from ultraviolet-light-induced DNA damage in aquatic vertebrates?",
+        "exact_answer": [
+            "melanocytes"
+        ],
+        "generated_answer": "\"Melanocytes\", \"Haematopoietic niche\", \"Bone marrow\", \"Cyclobutane pyrimidine dimers\", \"cmyb\""
+    },
+    {
+        "question": "Which is the primary interacting protein of BLK?",
+        "exact_answer": [
+            "BANK1"
+        ],
+        "generated_answer": "\"BANK1\", \"ATG5\", \"ATG7\""
+    },
+    {
+        "question": "How many doses of vaxchora are required?",
+        "exact_answer": [
+            "one"
+        ],
+        "generated_answer": "\"single-dose\", \"one\", \"only\""
+    },
+    {
+        "question": "What is the SLC25A20 protein transporting?",
+        "exact_answer": [
+            "The carnitine/acylcarnitine transporter (CACT; SLC25A20) mediates an antiport reaction allowing entry of acyl moieties in the form of acylcarnitines into the mitochondrial matrix and exit of free carnitine."
+        ],
+        "generated_answer": "\"carnitine\", \"acylcarnitine\""
+    },
+    {
+        "question": "Which bacteria causes rat bite fever?",
+        "exact_answer": [
+            "Streptobacillus moniliformis"
+        ],
+        "generated_answer": "\"Streptobacillus moniliformis\", \"Leptotrichiaceae\""
+    },
+    {
+        "question": "What receptor is associated with the protein encoded by the Sp\u00e4tzle gene?",
+        "exact_answer": [
+            "Toll-1 receptor"
+        ],
+        "generated_answer": "\"Toll-1\", \"Toll receptor\", \"Toll-1 receptor\", \"Toll-1 gene\", \"Toll-1 protein\""
+    },
+    {
+        "question": "Which graph database is used by the Reactome graph database?",
+        "exact_answer": [
+            "Neo4j"
+        ],
+        "generated_answer": "\"Neo4j\""
+    },
+    {
+        "question": "What is the route of administration of vaxchora?",
+        "exact_answer": [
+            "Oral"
+        ],
+        "generated_answer": "\"oral\""
+    },
+    {
+        "question": "What is the target of the drug remdesivir?",
+        "exact_answer": [
+            "polymerase"
+        ],
+        "generated_answer": "\"polymerase inhibitors\", \"CoVs\", \"SARS-CoV\", \"MHV\", \"antiviral\""
+    },
+    {
+        "question": "Which algorithm has been developed for detecting expansions of tandem repeats?",
+        "exact_answer": [
+            "ExpansionHunter"
+        ],
+        "generated_answer": "ExpansionHunter"
+    },
+    {
+        "question": "Which clotting factor is in the Andexxa?",
+        "exact_answer": [
+            "Xa"
+        ],
+        "generated_answer": "\"coagulation factor Xa (recombinant), inactivated-zhzo\", \"factor Xa inhibitors\", \"factor Xa\""
+    },
+    {
+        "question": "Cushing's disease is associated with a tumor in what part of the body?",
+        "exact_answer": [
+            "pituitary"
+        ],
+        "generated_answer": "\"pituitary\", \"adrenal gland\", \"hypothalamus\", \"thyroid gland\", \"ovaries\""
+    },
+    {
+        "question": "Which was the first genetically modified organism (GMO) to be used as vaccine?",
+        "exact_answer": [
+            "Vaxchora",
+            "CVD 103-HgR"
+        ],
+        "generated_answer": "\"Orochol\", \"Mutachol\""
+    },
+    {
+        "question": "What percentage of patients of nasopharyngeal carcinoma (NPC) develop recurrent disease?",
+        "exact_answer": [
+            "11-75%"
+        ],
+        "generated_answer": "\"75\", \"11\", \"1.04\""
+    },
+    {
+        "question": "What classes of drugs does Retapamulin belong to?",
+        "exact_answer": [
+            "antibiotics"
+        ],
+        "generated_answer": "\"pleuromutilin\", \"antibiotic\""
+    },
+    {
+        "question": "What cellular process is JAK/STAT involved in?",
+        "exact_answer": [
+            "inflammation"
+        ],
+        "generated_answer": "\"cellular processes\", \"cell growth\", \"differentiation\", \"proliferation\", \"regulatory immune functions\""
+    },
+    {
+        "question": "Which T-UCR has been implicated in prostate cancer?",
+        "exact_answer": [
+            "Uc.63+"
+        ],
+        "generated_answer": "\"Uc.63+\","
+    },
+    {
+        "question": "Which domain of the MOZ/MYST3 protein complex associates with histone H3?",
+        "exact_answer": [
+            "the double PHD finger domain"
+        ],
+        "generated_answer": "\"PHD finger domain\", \"MYST domain\""
+    },
+    {
+        "question": "Which company sells the drug Afrezza since 2015?",
+        "exact_answer": [
+            "Sanofi"
+        ],
+        "generated_answer": "\"Sanofi\", \"MannKind Corporation\""
+    },
+    {
+        "question": "What is the gene PTENP?",
+        "exact_answer": [
+            "PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human."
+        ],
+        "generated_answer": "\"PTEN pseudogene\", \"PTEN gene\", \"3' UTR of PTEN gene\", \"mammals\""
+    },
+    {
+        "question": "Rachmilewitz Index is used for which diseases?",
+        "exact_answer": [
+            "ulcerative colitis"
+        ],
+        "generated_answer": "\"Ulcerative Colitis\", \"Crohn's Disease\""
+    },
+    {
+        "question": "What is OAC CHV?",
+        "exact_answer": [
+            "Layman's term vocabulary for health related terms"
+        ],
+        "generated_answer": "\"Open Access and Collaborative Consumer Health Vocabulary\", \"OAC CHV\""
+    },
+    {
+        "question": "What does MVA85A stand for?",
+        "exact_answer": [
+            "Modified Vaccinia virus Ankara expressing Antigen 85A"
+        ],
+        "generated_answer": "\"Modified Vaccinia virus Ankara expressing Antigen 85A\", \"Mycobacterium tuberculosis\""
+    }
+]

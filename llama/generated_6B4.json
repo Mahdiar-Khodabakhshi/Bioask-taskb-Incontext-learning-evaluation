@@ -1,0 +1,234 @@
+[
+    {
+        "question": "What is the preDIVA clinical trial?",
+        "exact_answer": [
+            "Prevention of Dementia by Intensive Vascular Care"
+        ],
+        "generated_answer": "\"Prevention of Dementia by Intensive Vascular care\", \"PreDIVA\""
+    },
+    {
+        "question": "What effect does azeliragon have on RAGE?",
+        "exact_answer": [
+            "Inhibitory"
+        ],
+        "generated_answer": "\"inhibitor\", \"receptor\", \"advanced\", \"glycation\", \"end\", \"products\""
+    },
+    {
+        "question": "What is the drug forxiga used for?",
+        "exact_answer": [
+            "Treatment of patients with type 2 diabetes."
+        ],
+        "generated_answer": "\"SGLT 2 cotransporter inhibitor\", \"glucose-lowering agent\", \"type 2 diabetes\""
+    },
+    {
+        "question": "What is the most common feature of the Doege\u2013Potter syndrome?",
+        "exact_answer": [
+            "hypoglycemia"
+        ],
+        "generated_answer": "\"solitary fibrous tumor of the pleura\", \"hypoglycemia\""
+    },
+    {
+        "question": "Milwaukee protocol was tested for treatment of which disease?",
+        "exact_answer": [
+            "rabies"
+        ],
+        "generated_answer": "\"rabies\""
+    },
+    {
+        "question": "What does intepirdine target?",
+        "exact_answer": [
+            "5-HT6"
+        ],
+        "generated_answer": "\"5-HT-6 receptor\", \"AD symptomatology\", \"5-HT6 physiology\", \"AD symptom pathophysiology\", \"ChEI's\", \"NMDA receptor antagonists\""
+    },
+    {
+        "question": "Which R package has been developed for analyzing Non-invasive prenatal testing (NIPT) data?",
+        "exact_answer": [
+            "RAPIDR (Reliable Accurate Prenatal non-Invasive Diagnosis R package)"
+        ],
+        "generated_answer": "\"RAPIDR\","
+    },
+    {
+        "question": "Which method is available for whole genome identification of pathogenic regulatory variants in mendelian disease?",
+        "exact_answer": [
+            "Genomiser"
+        ],
+        "generated_answer": "\"Genomiser\", \"CADD\", \"ML method\""
+    },
+    {
+        "question": "In what phase of clinical trials is crenezumab? (November 2017)",
+        "exact_answer": [
+            "Phase III"
+        ],
+        "generated_answer": "\"Phase III\", \"III\", \"3\""
+    },
+    {
+        "question": "Which sequence-based algorithm for branch point prediction has been proposed?",
+        "exact_answer": [
+            "BPP"
+        ],
+        "generated_answer": "BPP"
+    },
+    {
+        "question": "What organism causes scarlet fever also known as scarletina?",
+        "exact_answer": [
+            "Group A Streptococcus or Streptococcus pyogenes"
+        ],
+        "generated_answer": "\"Group A Streptococcus\", \"Streptococcus pyogenes\", \"Streptococcus haemolyticus\""
+    },
+    {
+        "question": "What is the BioArchive system?",
+        "exact_answer": [
+            "automated cryopreservation and storage system"
+        ],
+        "generated_answer": "\"automated cryopreservation and storage system\", \"Mini-BioArchive system\", \"Bioarchive system\""
+    },
+    {
+        "question": "Which algorithm has been proposed for efficient storage of WGS variant calls?",
+        "exact_answer": [
+            "SeqArray"
+        ],
+        "generated_answer": "\"SeqArray\", \"VCF\", \"BCF\", \"BGT\""
+    },
+    {
+        "question": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?",
+        "exact_answer": [
+            "P53-binding protein 1",
+            "53BP1"
+        ],
+        "generated_answer": "\"53BP1\", \"TIRR\""
+    },
+    {
+        "question": "Which algorithm is used for detection of long repeat expansions?",
+        "exact_answer": [
+            "ExpansionHunter"
+        ],
+        "generated_answer": "\"ExpansionHunter\""
+    },
+    {
+        "question": "Which brain tumors does neuroligin-3 promote?",
+        "exact_answer": [
+            "high-grade gliomas"
+        ],
+        "generated_answer": "\"glioma\", \"GBM\", \"DIPG\""
+    },
+    {
+        "question": "Which web resource for LIR motif-containing proteins in eukaryotes has been developed?",
+        "exact_answer": [
+            "The iLIR database"
+        ],
+        "generated_answer": "\"iLIR database\", \"https://ilir.warwick.ac.uk\""
+    },
+    {
+        "question": "What is liquid liquid phase transition?",
+        "exact_answer": [
+            "membrane-free microcompartments"
+        ],
+        "generated_answer": "\"crowding-induced liquid/liquid phase separation\", \"liquid-liquid phase transitions\", \"liquid-liquid phase separations\", \"liquid-liquid phase\", \"liquid-liquid phase separation\""
+    },
+    {
+        "question": "What is the approximate size of gas vesicles?",
+        "exact_answer": [
+            "100 nm"
+        ],
+        "generated_answer": "\"100 nm\", \"50 nm\", \"20 nm\", \"10 nm\", \"5 nm\""
+    },
+    {
+        "question": "What is the proteoform?",
+        "exact_answer": [
+            "proteoforms are protein products with various primary structure alterations resulting from gene mutations, alternative splicing, post-translational modifications, and other biological processes"
+        ],
+        "generated_answer": "\"splice variants\", \"single amino acid substitutions (SAP variants)\", \"post-translational modifications (PTM)\""
+    },
+    {
+        "question": "How does neuronal activity affect neuroligin-3?",
+        "exact_answer": [
+            "Induces secretion"
+        ],
+        "generated_answer": "\"secretion\", \"promotion\", \"glioma\", \"proliferation\""
+    },
+    {
+        "question": "Sclerostin regulates what process?",
+        "exact_answer": [
+            "bone metabolism"
+        ],
+        "generated_answer": "\"bone formation\", \"Wnt/\u03b2-catenin signaling\", \"Wnt signaling pathway\", \"Wnt signaling\", \"osteoblast differentiation\", \"bone mass\", \"osteoblast function\", \"carbonic anhydrase 2\", \"BMPs\", \"osteocyte\", \"osteoclast\", \"bone mineral\", \"articular cartilage\", \"bone growth\", \"bone remodeling\", \"bone repair process\""
+    },
+    {
+        "question": "What is the association of the protein RAB10 and Alzheimers disease?",
+        "exact_answer": [
+            "RAB10 may be potential biomarkers of AD"
+        ],
+        "generated_answer": "\"target gene\", \"potential biomarker\""
+    },
+    {
+        "question": "What is emicizumab?",
+        "exact_answer": [
+            "ACE910 (emicizumab) is a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function."
+        ],
+        "generated_answer": "\"bispecific antibody\", \"factor IXa\", \"factor X\", \"hemophilia A\", \"inhibitors\""
+    },
+    {
+        "question": "Which is the function of ubiquilins?",
+        "exact_answer": [
+            "Ubiquilins, a family of ubiquitin-binding proteins, are involved in all protein degradation pathways."
+        ],
+        "generated_answer": "\"Ubiquitin receptors\", \"Adaptor proteins\", \"Protein degradation\", \"Proteasomal degradation\", \"Ubiquitinated substrates\""
+    },
+    {
+        "question": "Which algorithm has been developed for prediction of protein subcellular localization using deep learning?",
+        "exact_answer": [
+            "DeepLoc"
+        ],
+        "generated_answer": "\"DeepLoc\", \"Deep learning\", \"Protein subcellular localization\", \"Prediction\", \"Algorithm\""
+    },
+    {
+        "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?",
+        "exact_answer": [
+            "Salmonella Typhi"
+        ],
+        "generated_answer": "\"Salmonella enterica serotype Typhi\""
+    },
+    {
+        "question": "Which disease is treated with Fexinidazole?",
+        "exact_answer": [
+            "human african  trypanosomiasis"
+        ],
+        "generated_answer": "\"Chagas disease\", \"Human African trypanosomiasis\""
+    },
+    {
+        "question": "What part of what body organ controls the circadian clock?",
+        "exact_answer": [
+            "suprachiasmatic nucleus (SCN) of the hypothalamus in the brain"
+        ],
+        "generated_answer": "\"suprachiasmatic nucleus\", \"hypothalamus\""
+    },
+    {
+        "question": "What does MetaHIT stand for?",
+        "exact_answer": [
+            "Metagenomics of the Human Intestinal Tract"
+        ],
+        "generated_answer": "\"Metagenomics of the Human Intestinal Tract\","
+    },
+    {
+        "question": "What drug cures hepatitis C?",
+        "exact_answer": [
+            "Sofosbuvir based therapy"
+        ],
+        "generated_answer": "\"sofosbuvir\""
+    },
+    {
+        "question": "What can be predicted with the Wells criteria?",
+        "exact_answer": [
+            "pulmonary embolism"
+        ],
+        "generated_answer": "\"Wells score\", \"clinical probability of PE\", \"pretest probability\", \"pulmonary embolism prevalence\""
+    },
+    {
+        "question": "What is the drug Tecfidera used against?",
+        "exact_answer": [
+            "Tecifidera is approved for the treatment of relapsing-remitting multiple sclerosis"
+        ],
+        "generated_answer": "\"multiple sclerosis\", \"relapsing forms of multiple sclerosis\""
+    }
+]

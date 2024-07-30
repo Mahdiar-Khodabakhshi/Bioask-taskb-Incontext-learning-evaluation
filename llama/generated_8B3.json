@@ -1,0 +1,200 @@
+[
+    {
+        "question": "What is another name for AZD0530?",
+        "exact_answer": [
+            "Saracatinib"
+        ],
+        "generated_answer": "\"saracatinib\""
+    },
+    {
+        "question": "Which is the effect of the HP1a protein on chromatin?",
+        "exact_answer": [
+            "heterochromatic gene silencing"
+        ],
+        "generated_answer": "\"regulates transcription\", \"mediates gene silencing\", \"implicated in transcription\", \"involved in DNA replication\", \"involved in DNA repair\""
+    },
+    {
+        "question": "Which application is the backbone of BioPAXViz?",
+        "exact_answer": [
+            "Cytoscape (version 3)"
+        ],
+        "generated_answer": "\"Cytoscape\","
+    },
+    {
+        "question": "Which company produces ORMD-0801?",
+        "exact_answer": [
+            "Oramed Pharmaceuticals"
+        ],
+        "generated_answer": "\"Oramed Pharmaceuticals\""
+    },
+    {
+        "question": "In which cell organelle is the SAF-A protein localized?",
+        "exact_answer": [
+            "the nucleus"
+        ],
+        "generated_answer": "\"nucleus\", \"nucleolus\""
+    },
+    {
+        "question": "What is iodine thyroid blocking?",
+        "exact_answer": [
+            "High doses of potassium iodide are effective to block radioiodine thyroid uptake and to prevent development of thyroid cancer years later."
+        ],
+        "generated_answer": "\"Potassium iodide\", \"WHO guidelines\", \"First Meeting\", \"Thyroid Blocking Policy\", \"International Organisations\""
+    },
+    {
+        "question": "What disease is associated with a Malar rash?",
+        "exact_answer": [
+            "butterfly rash associated with SLE"
+        ],
+        "generated_answer": "\"Systemic lupus erythematosus\", \"Lupus erythematosus\", \"Lupus\", \"Butterfly rash\", \"Butterfly\""
+    },
+    {
+        "question": "Which epigenetic mark is deposited by PRC2?",
+        "exact_answer": [
+            "H3K27me3"
+        ],
+        "generated_answer": "\"H3K27me3\", \"H3K27me2\""
+    },
+    {
+        "question": "What is the target of galcanezumab?",
+        "exact_answer": [
+            "calcitonin gene-related peptide"
+        ],
+        "generated_answer": "\"calcitonin gene-related peptide\", \"CGRP\", \"migraine\", \"monoclonal antibody\", \"episodic\", \"chronic\", \"erenumab\", \"eptinezumab\", \"fremanezumab\""
+    },
+    {
+        "question": "Which disease was studied in the CADISS trial?",
+        "exact_answer": [
+            "carotid and vertebral artery dissection"
+        ],
+        "generated_answer": "\"Cervical Artery Dissection\", \"Stroke\""
+    },
+    {
+        "question": "What is the human RCA locus size in bps?",
+        "exact_answer": [
+            "300kbp"
+        ],
+        "generated_answer": "\"300-kb\", \"1q32\", \"1q21-32\""
+    },
+    {
+        "question": "What cellular process is the protein clathrin involved in?",
+        "exact_answer": [
+            "receptor mediated endocytosis"
+        ],
+        "generated_answer": "\"clathrin-mediated endocytosis\", \"exocytosis\", \"virus infection\""
+    },
+    {
+        "question": "Which receptor is modulated with Siponimod?",
+        "exact_answer": [
+            "sphingosine-1-phosphate"
+        ],
+        "generated_answer": "\"S1PR1\", \"S1PR5\""
+    },
+    {
+        "question": "Which drug is the first oral ghrelin receptor inverse agonist to be profiled in healthy subjects?",
+        "exact_answer": [
+            "PF-05190457"
+        ],
+        "generated_answer": "PF-05190457"
+    },
+    {
+        "question": "What is the protective efficacy of vaxchora against moderate to severe cholera?",
+        "exact_answer": [
+            "80-100%"
+        ],
+        "generated_answer": "\"80-100%\""
+    },
+    {
+        "question": "What is AZD0530 an inhibitor of?",
+        "exact_answer": [
+            "dual Src/Abl kinase"
+        ],
+        "generated_answer": "\"Src\", \"Abl\""
+    },
+    {
+        "question": "For how long do Drosophila embryos use maternal genome mRNA?",
+        "exact_answer": [
+            "14 cell divisions"
+        ],
+        "generated_answer": "\"first few hours\", \"early stages\""
+    },
+    {
+        "question": "What is the function of a viral peplomer?",
+        "exact_answer": [
+            "attachment and fusion during viral entry as well as for the induction of cell to cell fusion."
+        ],
+        "generated_answer": "\"responsible for attachment and fusion during viral entry as well as for the induction of cell to cell fusion\", \"Since tissue affinities are a function of the viral peplomer-mediated attachment of virus to cells and are often directly related to pathogenicity,\""
+    },
+    {
+        "question": "Which was the first cholera vaccine approved in the US?",
+        "exact_answer": [
+            "Vaxchora"
+        ],
+        "generated_answer": "\"Vaxchora\","
+    },
+    {
+        "question": "What is the function of WAPL protein on cohesin?",
+        "exact_answer": [
+            "Wapl is a cohesin unloading factor"
+        ],
+        "generated_answer": "\"regulates binding of the cohesin complex to chromosomes during interphase and helps remove cohesin from chromosomes at mitosis\", \"restricts this loop extension and also prevents looping between incorrectly oriented CTCF sites\", \"restricts this loop extension and also prevents looping between incorrectly oriented CTCF sites\", \"restricts this loop extension and also prevents looping between incorrectly oriented CTCF sites\", \"restricts this loop extension and also prevents looping between incorrectly oriented CTCF sites\""
+    },
+    {
+        "question": "What is romiplostim targeting?",
+        "exact_answer": [
+            "Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist"
+        ],
+        "generated_answer": "\"TPO\", \"ITP\""
+    },
+    {
+        "question": "What is the role of STAG1/STAG2 proteins in differentiation?",
+        "exact_answer": [
+            "meiosis and cell proliferation"
+        ],
+        "generated_answer": "\"mediator of a p53-dependent apoptotic pathway\", \"key mediator of a p53-dependent apoptotic pathway\", \"mediator of a p53-dependent apoptotic pathway\", \"mediator of a p53-dependent apoptotic pathway\", \"mediator of a p53-dependent apoptotic pathway\""
+    },
+    {
+        "question": "Which method is behind HipMCL?",
+        "exact_answer": [
+            "Markov Clustering",
+            "MCL"
+        ],
+        "generated_answer": "\"Markov Clustering\", \"MCL\""
+    },
+    {
+        "question": "What is drug target for olaparib?",
+        "exact_answer": [
+            "poly ADP ribose polymerase (PARP)"
+        ],
+        "generated_answer": "\"PARP\","
+    },
+    {
+        "question": "Which cells mature in the human thymus?",
+        "exact_answer": [
+            "T-cells",
+            "T-lymphocytes"
+        ],
+        "generated_answer": "\"T cells\", \"natural regulatory T cells\", \"thymocytes\", \"DP T cell subsets\", \"progenitor\""
+    },
+    {
+        "question": "When was vivotif first licenced in Europe?",
+        "exact_answer": [
+            "1983"
+        ],
+        "generated_answer": "\"1983\", \"1989\""
+    },
+    {
+        "question": "What animal is thought to be the host for the Coronavirus causing MERS?",
+        "exact_answer": [
+            "camel"
+        ],
+        "generated_answer": "\"camels\", \"bats\""
+    },
+    {
+        "question": "Which is the most common monogenic cause of common variable immunodeficiency (CVID) in Europeans?",
+        "exact_answer": [
+            "Heterozygous loss-of-function nuclear factor \u03baB subunit 1 (NFKB1) variants"
+        ],
+        "generated_answer": "\"Loss-of-function nuclear factor \u03baB subunit 1 (NFKB1) variants\""
+    }
+]

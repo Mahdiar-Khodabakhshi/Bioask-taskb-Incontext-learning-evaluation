@@ -1,0 +1,232 @@
+[
+    {
+        "question": "How does LB-100 affect the DDR proteins (BRCA1, Chk2, and \u03b3H2AX)?",
+        "exact_answer": [
+            "Hyperphosphorylation",
+            "Hyperphosphorylates"
+        ],
+        "generated_answer": "\"constitutive hyperphosphorylation\", \"chronology and persistence of JNK activation\", \"expression of 14-3-3 binding sites\""
+    },
+    {
+        "question": "What particles is Hadron therapy using?",
+        "exact_answer": [
+            "Proton beams"
+        ],
+        "generated_answer": "\"proton\", \"neutron\", \"pion\", \"kaon\", \"Lambda baryon\""
+    },
+    {
+        "question": "Which phosphatase is inhibited by LB-100?",
+        "exact_answer": [
+            "Protein phosphatase 2A"
+        ],
+        "generated_answer": "\"PP2A\", \"Protein Phosphatase 2A\""
+    },
+    {
+        "question": "What is the cyberknife used for?",
+        "exact_answer": [
+            "CyberKnife\u00ae is a robotic stereotactic radiotherapy system"
+        ],
+        "generated_answer": "\"Stereotactic radiosurgery\", \"Malignant melanomas\", \"Choroid and ciliary body\", \"Small- and medium-sized CSHs\", \"Head and neck paragangliomas\""
+    },
+    {
+        "question": "Which portal has been developed to explore protein-protein interactions in cancer cell lines?",
+        "exact_answer": [
+            "The OncoPPi Portal"
+        ],
+        "generated_answer": "\"OncoPPi Portal\""
+    },
+    {
+        "question": "Which biological process takes place in nuclear speckles?",
+        "exact_answer": [
+            "mRNA processing",
+            "mRNA splicing"
+        ],
+        "generated_answer": "\"pre-spliceosomal assembly\", \"mRNA trafficking\", \"mRNA export\", \"RNA splicing\", \"exosomal mRNA degradation\""
+    },
+    {
+        "question": "PDQ39 questionnaires is design for which disease?",
+        "exact_answer": [
+            "Parkinson's Disease"
+        ],
+        "generated_answer": "\"Parkinson's disease\", \"PD\""
+    },
+    {
+        "question": "Which gene is frequently involved in autosomal dominant adult-onset demyelinating leukodystrophy (ADLD)?",
+        "exact_answer": [
+            "Lamin B1 gene",
+            "LMNB1"
+        ],
+        "generated_answer": "\"LMNB1\", \"LMNA\""
+    },
+    {
+        "question": "What is the radiation-induced CD8 lymphocyte apoptosis (RILA) assay used for?",
+        "exact_answer": [
+            "Radiation-induced lymphocyte apoptosis (RILA) has been suggested as a predictive assay for adverse late reactions after radiotherapy."
+        ],
+        "generated_answer": "\"predictive assay for adverse late reactions after radiotherapy\", \"predictive assay for adverse late reactions after radiotherapy\", \"predictive assay for adverse late reactions after radiotherapy\", \"predictive assay for adverse late reactions after radiotherapy\", \"predictive assay for adverse late reactions after radiotherapy\""
+    },
+    {
+        "question": "Which is the main epigenetic difference between poised and constitutive enhancers?",
+        "exact_answer": [
+            "H3K27ac"
+        ],
+        "generated_answer": "\"H3K27ac\", \"H3K4me1\", \"H3K27me3\""
+    },
+    {
+        "question": "Which receptor is inhibited by Tivozanib?",
+        "exact_answer": [
+            "vascular endothelial growth factor receptors"
+        ],
+        "generated_answer": "\"VEGFR1\", \"VEGFR2\", \"VEGFR3\""
+    },
+    {
+        "question": "How rare are CTCs (circulating tumour cells) in the plasma of patients?",
+        "exact_answer": [
+            "1 in 10 to 9th",
+            "1e-9",
+            "1 in 10^9"
+        ],
+        "generated_answer": "\"as low as 1 in 10(9) hematologic cells\""
+    },
+    {
+        "question": "What is detected by the UV-damaged DNA-binding protein (UV-DDB) complex?",
+        "exact_answer": [
+            "UV-DDB associates tightly with chromatin and is involved in global genomic nucleotide excision repair (NER)"
+        ],
+        "generated_answer": "\"UV-damaged DNA\", \"Nucleotide excision repair (NER)\", \"Chromatin\", \"UV-damaged DNA-binding protein complex (UV-DDB)\", \"Primate cells\""
+    },
+    {
+        "question": "Which receptor is inhibited by Teprotumumab?",
+        "exact_answer": [
+            "IGF-1"
+        ],
+        "generated_answer": "\"IGF-1R\", \"TSHR\""
+    },
+    {
+        "question": "What is the cause of the disease Xeroderma Pigmentosum?",
+        "exact_answer": [
+            "Defective NER, such as mutated ERCC1 or ERCC$ genes"
+        ],
+        "generated_answer": "\"ERCC4 mutations\", \"ERCC1 mutations\", \"mutations in the ERCC1 or ERCC4 genes\", \"mutations in the XPA gene\", \"NER-defective xeroderma pigmentosum\""
+    },
+    {
+        "question": "How many different miRNAs can be upregulated by LB-100?",
+        "exact_answer": [
+            "One"
+        ],
+        "generated_answer": "\"miR-181b-1\", \"miR-181b-2\", \"miR-181c\", \"miR-181d\", \"miR-181a-1\""
+    },
+    {
+        "question": "Which disease can be treated with Anifrolumab?",
+        "exact_answer": [
+            "systemic lupus erythematosus"
+        ],
+        "generated_answer": "\"Systemic lupus erythematosus\", \"SLE\""
+    },
+    {
+        "question": "Which de novo mutation in FGFR cause achondroplasia?",
+        "exact_answer": [
+            "G380R"
+        ],
+        "generated_answer": "\"G380R\", \"C342Y\", \"G375C\", \"G375R\", \"G388R\""
+    },
+    {
+        "question": "In which cellular compartment do stress granules localize?",
+        "exact_answer": [
+            "cytoplasm"
+        ],
+        "generated_answer": "\"cytoplasm\", \"cytoplasmic\""
+    },
+    {
+        "question": "Which disease is Dasatinib used to treat?",
+        "exact_answer": [
+            "Chronic myeloid leukemia",
+            "CML"
+        ],
+        "generated_answer": "\"chronic myeloid leukemia\", \"chronic graft-versus-host disease\", \"Philadelphia chromosome-positive acute lymphoblastic leukemia\", \"chronic myeloid leukemia (CML)\", \"mixed connective tissue disease\""
+    },
+    {
+        "question": "Which algorithm has been developed for finding conserved non-coding elements (CNEs)?",
+        "exact_answer": [
+            "CNEFinder"
+        ],
+        "generated_answer": "\"CNEFinder\""
+    },
+    {
+        "question": "What type of antagonist is istradefylline?",
+        "exact_answer": [
+            "Selective adenosine A2A receptor antagonist"
+        ],
+        "generated_answer": "\"selective adenosine A2A receptor antagonist\""
+    },
+    {
+        "question": "Through which molecular pathway does LB-100 reduce hepatic steatosis?",
+        "exact_answer": [
+            "AMPK/Sirt1 pathway"
+        ],
+        "generated_answer": "\"AMPK/Sirt1 pathway\""
+    },
+    {
+        "question": "Mutations in which gene form the genetic basis of the DOORS syndrome?",
+        "exact_answer": [
+            "TBC1D24"
+        ],
+        "generated_answer": "\"TBC1D24\", \"SMARCA2\""
+    },
+    {
+        "question": "What is the aim of the \"Radiogenomics Consortium\"?",
+        "exact_answer": [
+            "Pre-identification of people who are at greatest risk for adverse effects resulting from cancer treatment using radiation."
+        ],
+        "generated_answer": "\"enable the creation of the large radiotherapy cohorts required to exploit advances in genomics\", \"development of a predictive instrument to enable identification of people who are at greatest risk for adverse effects resulting from cancer treatment using radiation\""
+    },
+    {
+        "question": "What kind of molecule is AZD8601?",
+        "exact_answer": [
+            "mRNA"
+        ],
+        "generated_answer": "\"modified mRNA\", \"vascular endothelial growth factor A\""
+    },
+    {
+        "question": "Which disease category is LB-100 mostly assessed for?",
+        "exact_answer": [
+            "Cancer"
+        ],
+        "generated_answer": "\"cancer\", \"solid tumors\""
+    },
+    {
+        "question": "Which disease can be classified using the Koos Classification?",
+        "exact_answer": [
+            "vestibular schwannomas"
+        ],
+        "generated_answer": "\"vestibular schwannoma\""
+    },
+    {
+        "question": "Which receptor does amantadine antagonize?",
+        "exact_answer": [
+            "NMDA"
+        ],
+        "generated_answer": "\"NMDA\", \"receptor\", \"antagonist\""
+    },
+    {
+        "question": "Which method has been developed for mapping of Transcription Start Sites (TSS) starting from nanograms of RNA?",
+        "exact_answer": [
+            "SLIC-CAGE"
+        ],
+        "generated_answer": "\"SLIC-CAGE\", \"CAGE\", \"nAnT-iCAGE\""
+    },
+    {
+        "question": "What is molecular radiotherapy?",
+        "exact_answer": [
+            "Molecular radiotherapy is working through tumor-targeted radionuclides."
+        ],
+        "generated_answer": "\"Molecular radiotherapy with tumor-targeted radionuclides may overcome some of these challenges\", \"Neuroblastoma may be treated with molecular radiotherapy, 131I meta-Iodobenzylguanidine and 177Lu Lutetium DOTATATE, directed at distinct molecular targets: Noradrenaline Transporter Molecule (NAT) and Somatostatin Receptor (SSTR2), respectively.\""
+    },
+    {
+        "question": "Which mRNAs are sequestered in stress granules?",
+        "exact_answer": [
+            "long, AU-rich and non-ribosome associating mRNA"
+        ],
+        "generated_answer": "\"AU-rich\", \"mRNAs\", \"mRNPs\", \"mRNAs\", \"mRNAs\""
+    }
+]

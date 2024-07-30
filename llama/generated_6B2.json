@@ -1,0 +1,108 @@
+[
+    {
+        "question": "Which retinal dystrophy related gene is targeted by the AAV2-hRPE65v2 drug?",
+        "exact_answer": [
+            "RPE65"
+        ],
+        "generated_answer": "\"RPE65\""
+    },
+    {
+        "question": "What is the name of the RNAi investigational drug being developed against hereditary amyloidosis?",
+        "exact_answer": [
+            "Patisiran"
+        ],
+        "generated_answer": "\"Patisiran\", \"RNAi\", \"hereditary ATTR\", \"hATTR\", \"amyloidosis\""
+    },
+    {
+        "question": "What causes \"Puffy hand syndrome\"?",
+        "exact_answer": [
+            "intravenous drug abuse"
+        ],
+        "generated_answer": "\"injection practices\", \"buprenorphine misuse\", \"direct toxicity of injected drugs and their adulterants\", \"venous and lymphatic insufficiencies\", \"infectious complications\""
+    },
+    {
+        "question": "Which virus can be diagnosed with the monospot test?",
+        "exact_answer": [
+            "Epstein-Barr virus"
+        ],
+        "generated_answer": "\"Epstein-Barr virus\", \"Hepatitis B\", \"Hepatitis A\", \"Cytomegalovirus\""
+    },
+    {
+        "question": "Which workflow in Bioconductor has been developed for accessing human RNA-seq samples?",
+        "exact_answer": [
+            "recount2"
+        ],
+        "generated_answer": "\"recount workflow\", \"recount2 resource\""
+    },
+    {
+        "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?",
+        "exact_answer": [
+            "convergent",
+            "Convergent orientation"
+        ],
+        "generated_answer": "\"convergent\", \"oppositely oriented\", \"asymmetric motifs\", \"facing\", \"recent studies\""
+    },
+    {
+        "question": "How many amino acids does davunetide consist of?",
+        "exact_answer": [
+            "eight"
+        ],
+        "generated_answer": "\"eight\", \"8\""
+    },
+    {
+        "question": "What protein is the most common cause of hereditary  renal amyloidosis?",
+        "exact_answer": [
+            "Fibrinogen A Alpha protein"
+        ],
+        "generated_answer": "\"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\""
+    },
+    {
+        "question": "What is the mode of action of the drug Prolia?",
+        "exact_answer": [
+            "Anti-RANKL antibody which prevents bone catabolism in osteoporosis"
+        ],
+        "generated_answer": "\"monoclonal antibody\", \"RANKL\", \"osteoclasts\""
+    },
+    {
+        "question": "Which siRNA based drug is in clinical trials for the treatment of pancreatic cancer?",
+        "exact_answer": [
+            "siG12D-LODERTM"
+        ],
+        "generated_answer": "\"siG12D-LODER\", \"siG12D\", \"KRAS(G12D)\", \"LAPC\", \"LODER\""
+    },
+    {
+        "question": "Which R/Bioconductor package has been developed for cancer subtype identification?",
+        "exact_answer": [
+            "CancerSubtypes"
+        ],
+        "generated_answer": "\"CancerSubtypes\","
+    },
+    {
+        "question": "What gene is mutated in Familial Mediterranean Fever?",
+        "exact_answer": [
+            "MEFV gene"
+        ],
+        "generated_answer": "\"MEFV\", \"Mediterranean fever gene\", \"pyrin\""
+    },
+    {
+        "question": "Which R/bioconductor package has been developed to aid in epigenomic analysis?",
+        "exact_answer": [
+            "DeepBlueR"
+        ],
+        "generated_answer": "\"deepbluer\", \"deepblueR\", \"deepblueR: large-scale epigenomic analysis in R.\""
+    },
+    {
+        "question": "What is a potential side effect for Tymlos?",
+        "exact_answer": [
+            "Osteosarcoma"
+        ],
+        "generated_answer": "\"osteosarcomas\", \"near life-long treatment\", \"dose and time dependent\", \"hPTH(1-34)\", \"similar exposure\""
+    },
+    {
+        "question": "Which disorder has been approved for treatment with Alk inhibitors?",
+        "exact_answer": [
+            "ALK-positive lung cancer"
+        ],
+        "generated_answer": "\"ALK\", \"NSCLC\", \"crizotinib\", \"alectinib\", \"ceritinib\""
+    }
+]
