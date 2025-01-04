@@ -1,10 +1,12 @@
 import json
 import re
-import os
+from pathlib import Path
 
 def transform_data(data):
+    """
+    Transforms the data by extracting questions, exact answers, and parsed generated answers.
+    """
     transformed_data = []
-    
     for item in data:
         question = item['question']
         exact_answer = item['exact_answer']
@@ -17,32 +19,32 @@ def transform_data(data):
             "exact_answer": exact_answer,
             "generated_answer": generated_answer_list
         }
-        
         transformed_data.append(transformed_item)
-    
     return transformed_data
 
-def merge_json_files(file_paths):
-    merged_data = []
+def process_file(input_file_path, output_file_path):
+    """
+    Processes a single input file, transforming its data and saving the output.
+    """
+    with open(input_file_path, 'r') as infile:
+        data = json.load(infile)
     
-    for file_path in file_paths:
-        with open(file_path, 'r') as infile:
-            data = json.load(infile)
-            merged_data.extend(data)
-    
-    return merged_data
-
-def process_files(input_file_paths, output_file_path):
-    merged_data = merge_json_files(input_file_paths)
-    
-    transformed_data = transform_data(merged_data)
+    transformed_data = transform_data(data)
     
     with open(output_file_path, 'w') as outfile:
         json.dump(transformed_data, outfile, indent=4)
+    print(f"Processed and saved: {output_file_path}")
 
-input_file_paths = ['generated_8B1.json', 'generated_8B2.json', 'generated_8B3.json', 'generated_8B4.json', 'generated_8B5.json']  # List all your JSON file paths here
-output_file_path = 'valid_generated_8B.json'
+input_dir = Path('llama3_chatqa_answers')
+output_dir = input_dir / 'validated_llama3_chatqa_answers'
+output_dir.mkdir(parents=True, exist_ok=True)
 
-process_files(input_file_paths, output_file_path)
+input_files = [
+    input_dir / 'llama3_chatqa_answers_task6b_combined.json',
+    input_dir / 'llama3_chatqa_answers_task7b_combined.json',
+    input_dir / 'llama3_chatqa_answers_task8b_combined.json'
+]
 
-print(f"Data has been merged, transformed, and saved to {output_file_path}")
+for input_file in input_files:
+    output_file = output_dir / f'validated_{input_file.stem}.json'
+    process_file(input_file, output_file)

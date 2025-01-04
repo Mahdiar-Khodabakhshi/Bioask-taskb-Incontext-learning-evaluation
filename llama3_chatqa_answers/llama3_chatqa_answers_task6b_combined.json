@@ -1,0 +1,1148 @@
+[
+    {
+        "question": "What is the administration route of IVIG in Alzheimer's disease patients?",
+        "exact_answer": [
+            "Intravenous"
+        ],
+        "generated_answer": "\"intravenous\", \"IV\""
+    },
+    {
+        "question": "What is measured through the NOMe-Seq methodology?",
+        "exact_answer": [
+            "Nucleosome positioning and DNA methylation"
+        ],
+        "generated_answer": "\"nucleosome positioning\", \"DNA methylation\""
+    },
+    {
+        "question": "Do origins of replication close to yeast centromeres fire early or late?",
+        "exact_answer": [
+            "Early"
+        ],
+        "generated_answer": "\"early\", \"late\""
+    },
+    {
+        "question": "How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?",
+        "exact_answer": [
+            "48 genes"
+        ],
+        "generated_answer": "\"48\", \"at least 48\", \"approximately 50\", \"41 out of 48\", \"47\""
+    },
+    {
+        "question": "Which algorithm is available for computing minimal absent words using external memory?",
+        "exact_answer": [
+            "emMAW"
+        ],
+        "generated_answer": "\"emMAW\""
+    },
+    {
+        "question": "Which type of urinary incontinence is diagnosed with the Q tip test?",
+        "exact_answer": [
+            "stress urinary incontinence"
+        ],
+        "generated_answer": "\"stress urinary incontinence\", \"simple female SUI\", \"urodynamic SUI\""
+    },
+    {
+        "question": "How many Groucho-related genes (GRG) are contained in the mouse genome?",
+        "exact_answer": [
+            "four",
+            "4"
+        ],
+        "generated_answer": "\"at least four\", \"at least\", \"four\", \"at least four family members\""
+    },
+    {
+        "question": "What is a coligo?",
+        "exact_answer": [
+            "circularized oligodeoxynucleotides"
+        ],
+        "generated_answer": "\"Circularized oligonucleotides\", \"coligos\", \"Circularized oligodeoxynucleotides\""
+    },
+    {
+        "question": "Which algorithm is used by the UCSC Genome Browser?",
+        "exact_answer": [
+            "Genome hashing"
+        ],
+        "generated_answer": "\"UCSC Genome Browser\", \"Genome Browser\", \"UCSC Table Browser\", \"UCSC Genome Bioinformatics\", \"UCSC Table Browser\""
+    },
+    {
+        "question": "Which aminoacid position in the human CREB protein is phosphorylated?",
+        "exact_answer": [
+            "Ser133"
+        ],
+        "generated_answer": "\"Ser133\", \"Ser142\", \"Ser143\", \"Ser145\", \"Ser147\""
+    },
+    {
+        "question": "Which gene is the paralog of yeast UPC2?",
+        "exact_answer": [
+            "Ecm22"
+        ],
+        "generated_answer": "\"Ecm22\", \"Sut1\", \"Sut2\""
+    },
+    {
+        "question": "Where is the enzyme PM20D1 localized?",
+        "exact_answer": [
+            "UCP1+ adipocytes"
+        ],
+        "generated_answer": "\"secreted\", \"adipocytes\""
+    },
+    {
+        "question": "Which test is used to diagnose colour synesthesia?",
+        "exact_answer": [
+            "Stroop Test"
+        ],
+        "generated_answer": "\"Stroop test\", \"Synesthesia Battery\", \"consistency test\", \"psychophysical test\""
+    },
+    {
+        "question": "How does increased GDF15 affect body weight?",
+        "exact_answer": [
+            "Reduces body weight"
+        ],
+        "generated_answer": "\"decreases food intake\", \"reduces body weight\""
+    },
+    {
+        "question": "What is inhibited by a drug rilotumumab?",
+        "exact_answer": [
+            "hepatocyte growth factor"
+        ],
+        "generated_answer": "\"hepatocyte growth factor\", \"MET receptor\""
+    },
+    {
+        "question": "Which RNA polymerase II subunit carries RNA cleavage activity?",
+        "exact_answer": [
+            "TFIIS"
+        ],
+        "generated_answer": "\"Rpb9p\", \"TFIIS\""
+    },
+    {
+        "question": "How many PML isoforms exist in the human genome?",
+        "exact_answer": [
+            "7, designated I to VII",
+            "I-VII"
+        ],
+        "generated_answer": "\"Six\", \"major\", \"result\", \"alternative\", \"splicing\""
+    },
+    {
+        "question": "Which receptor does GDF15 bind?",
+        "exact_answer": [
+            "GDNF family receptor \u03b1-like (GFRAL)"
+        ],
+        "generated_answer": "GDNF family receptor \u03b1-like (GFRAL)"
+    },
+    {
+        "question": "How many of the human PML isoforms are cytosolic?",
+        "exact_answer": [
+            "3",
+            "three"
+        ],
+        "generated_answer": "\"PMLI\", \"PMLII\", \"PMLVI\""
+    },
+    {
+        "question": "What does davunetide do to microtubules?",
+        "exact_answer": [
+            "Stabilizes",
+            "Protects"
+        ],
+        "generated_answer": "\"stabilizing\", \"protecting\""
+    },
+    {
+        "question": "Which method for subsampling of NGS reads requires only gene counts?",
+        "exact_answer": [
+            "subSeq"
+        ],
+        "generated_answer": "\"subSeq\", \"samExploreR\""
+    },
+    {
+        "question": "Which topoisomerase is essential in yeast?",
+        "exact_answer": [
+            "topoisomerase II",
+            "topo II"
+        ],
+        "generated_answer": "\"DNA topoisomerase II\", \"type II topoisomerase\", \"essential decatenase\", \"main relaxase\", \"essential for viability\""
+    },
+    {
+        "question": "What is the genetic basis of Ohdo syndrome?",
+        "exact_answer": [
+            "mutations in MED12"
+        ],
+        "generated_answer": "\"MED12\", \"MED12 gene\", \"MED12 mutations\", \"MED12 spectrum\", \"MED12 disorders\""
+    },
+    {
+        "question": "Which main ribotype of Clostridium difficile is responsible of the recent outbreak?",
+        "exact_answer": [
+            "Ribotype 027"
+        ],
+        "generated_answer": "\"027\", \"NAP1/BI/027\", \"ribotype 027\", \"C. difficile 027\", \"PCR ribotype 027\""
+    },
+    {
+        "question": "Which R/Bioconductor package has been developed for the analysis of psychiatric disease genes?",
+        "exact_answer": [
+            "Psygenet2r"
+        ],
+        "generated_answer": "\"psygenet2r\""
+    },
+    {
+        "question": "Which Janus kinase does decernotinib target?",
+        "exact_answer": [
+            "Janus kinase 3 (JAK3)"
+        ],
+        "generated_answer": "\"JAK3\", \"3\", \"Janus kinase\", \"kinase\", \"JAK\""
+    },
+    {
+        "question": "What is the function of the gene MDA5?",
+        "exact_answer": [
+            "Sensing of non-self RNAs, especially viral RNA"
+        ],
+        "generated_answer": "\"Pattern recognition receptor\", \"Initiates innate antiviral responses\", \"Recognizes cytoplasmic viral double-stranded RNA\", \"Forms a filament-like multimer along the dsRNA\", \"Activates the adaptor protein mitochondrial antiviral signaling protein (MAVS)\""
+    },
+    {
+        "question": "Which is the conserved motif of DEAD box proteins?",
+        "exact_answer": [
+            "Asp(D)-Glu-(E)-Ala(A)-Asp(D)"
+        ],
+        "generated_answer": "\"Asp(D)-Glu-(E)-Ala(A)-Asp(D)\", \"Asp(D)-Glu-(E)-Ala(A)-Asp(D)-Glu(E)-Ala(A)-Asp(D)\""
+    },
+    {
+        "question": "Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?",
+        "exact_answer": [
+            "members of agrarian societies"
+        ],
+        "generated_answer": "\"obese individuals\", \"post-gastric-bypass individuals\", \"normal-weight individuals\""
+    },
+    {
+        "question": "Which drug can be reversed with idarucizumab?",
+        "exact_answer": [
+            "dabigatran"
+        ],
+        "generated_answer": "\"dabigatran\""
+    },
+    {
+        "question": "What is the function of the TMEM132 genes?",
+        "exact_answer": [
+            "Cellular adhesion function"
+        ],
+        "generated_answer": "\"cellular adhesion\", \"connect extracellular medium with intracellular actin cytoskeleton\""
+    },
+    {
+        "question": "Which retinal dystrophy related gene is targeted by the AAV2-hRPE65v2 drug?",
+        "exact_answer": [
+            "RPE65"
+        ],
+        "generated_answer": "\"RPE65\""
+    },
+    {
+        "question": "What is the name of the RNAi investigational drug being developed against hereditary amyloidosis?",
+        "exact_answer": [
+            "Patisiran"
+        ],
+        "generated_answer": "\"Patisiran\", \"RNAi\", \"hereditary ATTR\", \"hATTR\", \"amyloidosis\""
+    },
+    {
+        "question": "What causes \"Puffy hand syndrome\"?",
+        "exact_answer": [
+            "intravenous drug abuse"
+        ],
+        "generated_answer": "\"injection practices\", \"buprenorphine misuse\", \"direct toxicity of injected drugs and their adulterants\", \"venous and lymphatic insufficiencies\", \"infectious complications\""
+    },
+    {
+        "question": "Which virus can be diagnosed with the monospot test?",
+        "exact_answer": [
+            "Epstein-Barr virus"
+        ],
+        "generated_answer": "\"Epstein-Barr virus\", \"Hepatitis B\", \"Hepatitis A\", \"Cytomegalovirus\""
+    },
+    {
+        "question": "Which bacteria causes erythrasma?",
+        "exact_answer": [
+            "Corynebacterium minutissimum"
+        ],
+        "generated_answer": "\"Corynebacterium minutissimum\", \"Corynebacterium aurimucosum\", \"Microbacterium oxydans\""
+    },
+    {
+        "question": "Mutations in which gene cause Schimke immune-osseous dysplasia?",
+        "exact_answer": [
+            "SMARCAL1 (SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A-Like 1)",
+            "HARP"
+        ],
+        "generated_answer": "SMARCAL1"
+    },
+    {
+        "question": "What is the most common histological diagnosis of \"butterfly glioma\"?",
+        "exact_answer": [
+            "glioblastoma multiforme"
+        ],
+        "generated_answer": "\"glioblastoma multiforme\", \"glioblastoma\", \"GBM\", \"glioma\", \"astrocytoma\""
+    },
+    {
+        "question": "Which workflow in Bioconductor has been developed for accessing human RNA-seq samples?",
+        "exact_answer": [
+            "recount2"
+        ],
+        "generated_answer": "\"recount workflow\", \"recount2 resource\""
+    },
+    {
+        "question": "What is the preferred orientation of CTCF binding sites for chromatin looping?",
+        "exact_answer": [
+            "convergent",
+            "Convergent orientation"
+        ],
+        "generated_answer": "\"convergent\", \"oppositely oriented\", \"asymmetric motifs\", \"facing\", \"recent studies\""
+    },
+    {
+        "question": "How many amino acids does davunetide consist of?",
+        "exact_answer": [
+            "eight"
+        ],
+        "generated_answer": "\"eight\", \"8\""
+    },
+    {
+        "question": "What protein is the most common cause of hereditary  renal amyloidosis?",
+        "exact_answer": [
+            "Fibrinogen A Alpha protein"
+        ],
+        "generated_answer": "\"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\", \"Fibrinogen A alpha chain\""
+    },
+    {
+        "question": "With which cancers has the loss of SMARCB1 been associated?",
+        "exact_answer": [
+            "chordomas",
+            "childhood chordomas",
+            "infantile chordomas",
+            "CCs"
+        ],
+        "generated_answer": "\"epithelioid sarcomas\", \"renal medullary carcinomas\", \"undifferentiated chordomas\""
+    },
+    {
+        "question": "What is the mode of action of the drug Prolia?",
+        "exact_answer": [
+            "Anti-RANKL antibody which prevents bone catabolism in osteoporosis"
+        ],
+        "generated_answer": "\"monoclonal antibody\", \"RANKL\", \"osteoclasts\""
+    },
+    {
+        "question": "Which disease risk can be estimated with the Stop-Bang questionnaire?",
+        "exact_answer": [
+            "obstructive sleep apnea"
+        ],
+        "generated_answer": "\"Obstructive sleep apnea\", \"OSA\""
+    },
+    {
+        "question": "Which siRNA based drug is in clinical trials for the treatment of pancreatic cancer?",
+        "exact_answer": [
+            "siG12D-LODERTM"
+        ],
+        "generated_answer": "\"siG12D-LODER\", \"siG12D\", \"KRAS(G12D)\", \"LAPC\", \"LODER\""
+    },
+    {
+        "question": "Which R/Bioconductor package has been developed for cancer subtype identification?",
+        "exact_answer": [
+            "CancerSubtypes"
+        ],
+        "generated_answer": "\"CancerSubtypes\","
+    },
+    {
+        "question": "What gene is mutated in Familial Mediterranean Fever?",
+        "exact_answer": [
+            "MEFV gene"
+        ],
+        "generated_answer": "\"MEFV\", \"Mediterranean fever gene\", \"pyrin\""
+    },
+    {
+        "question": "Which R/bioconductor package has been developed to aid in epigenomic analysis?",
+        "exact_answer": [
+            "DeepBlueR"
+        ],
+        "generated_answer": "\"deepbluer\", \"deepblueR\", \"deepblueR: large-scale epigenomic analysis in R.\""
+    },
+    {
+        "question": "Centor criteria are used for which disease?",
+        "exact_answer": [
+            "streptococcal pharyngitis"
+        ],
+        "generated_answer": "\"Group A streptococcal infection\", \"Sore throat\""
+    },
+    {
+        "question": "What is a potential side effect for Tymlos?",
+        "exact_answer": [
+            "Osteosarcoma"
+        ],
+        "generated_answer": "\"osteosarcomas\", \"near life-long treatment\", \"dose and time dependent\", \"hPTH(1-34)\", \"similar exposure\""
+    },
+    {
+        "question": "Which disorder has been approved for treatment with Alk inhibitors?",
+        "exact_answer": [
+            "ALK-positive lung cancer"
+        ],
+        "generated_answer": "\"ALK\", \"NSCLC\", \"crizotinib\", \"alectinib\", \"ceritinib\""
+    },
+    {
+        "question": "Which algorithm has been developed in order to improve multiple circular sequence alignment using refined sequences?",
+        "exact_answer": [
+            "MARS"
+        ],
+        "generated_answer": "MARS"
+    },
+    {
+        "question": "Which stapled peptide has been designed to target Ctf4?",
+        "exact_answer": [
+            "The stapled Sld5 peptide"
+        ],
+        "generated_answer": "\"Sld5 CIP\", \"Ctf4-interacting peptide\", \"AND-1\""
+    },
+    {
+        "question": "Mutation of which gene causes arterial tortuosity syndrome?",
+        "exact_answer": [
+            "SLC2A10"
+        ],
+        "generated_answer": "\"SLC2A10\", \"TGFBR1\", \"TGFBR2\""
+    },
+    {
+        "question": "Fusarium oxysporum f. sp lycopersici. is a plant pathogen in plants producing what common food?",
+        "exact_answer": [
+            "Tomato"
+        ],
+        "generated_answer": "tomato"
+    },
+    {
+        "question": "Glecaprevir and Pibrentasvir are used for tratment of which disease?",
+        "exact_answer": [
+            "Hepatitis C virus infection"
+        ],
+        "generated_answer": "\"hepatitis C virus infection\""
+    },
+    {
+        "question": "What is the drug target(s) for Belsomra?",
+        "exact_answer": [
+            "orexin recptors"
+        ],
+        "generated_answer": "\"dual orexin receptor antagonist\", \"dual orexin receptor agonist\", \"dual orexin receptor\", \"dual orexin receptor antagonist (DORA)\""
+    },
+    {
+        "question": "Silent Allosteric Modulation of mGluR5 is a form of treatment for what disease?",
+        "exact_answer": [
+            "Alzheimer's disease"
+        ],
+        "generated_answer": "\"Alzheimer's Disease\""
+    },
+    {
+        "question": "What are check point inhibitors?",
+        "exact_answer": [
+            "monoclonal antibody drugs that regulate the immune response to cancer"
+        ],
+        "generated_answer": "\"immune check point inhibitors\", \"checkpoint inhibitors\", \"immune system cells\", \"anti-cancer immune response\", \"immune responses\", \"inhibitory mechanisms\", \"immune check point targeting therapies\", \"immune check point blocking monoclonal antibodies\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \"immune check point targeting therapy\", \""
+    },
+    {
+        "question": "Which data simulator is available for CLIP-SEQ experiments?",
+        "exact_answer": [
+            "Cseq-Simulator"
+        ],
+        "generated_answer": "\"CSEQ-SIMULATOR\""
+    },
+    {
+        "question": "Falciform ligament sign is characteristic to which disease?",
+        "exact_answer": [
+            "pneumoperitoneum"
+        ],
+        "generated_answer": "gastroduodenal perforation"
+    },
+    {
+        "question": "In November 2017,  in what phase  was  the clinical trial for the drug SYL040012?",
+        "exact_answer": [
+            "Phase 3"
+        ],
+        "generated_answer": "\"phase 2\", \"phase 3\""
+    },
+    {
+        "question": "Which method has been developed for assignment of enhancers to target genes?",
+        "exact_answer": [
+            "McEnhancer"
+        ],
+        "generated_answer": "\"McEnhancer\", \"Semi-supervised learning\", \"Machine learning\", \"Gene expression patterns\", \"Sequence features\""
+    },
+    {
+        "question": "What disease is the ALK tyrosine kinase associated with?",
+        "exact_answer": [
+            "cancer"
+        ],
+        "generated_answer": "\"non-small cell lung cancer\", \"anaplastic large cell lymphoma\", \"inflammatory myofibroblastic tumors\", \"diffuse large B-cell lymphoma\", \"systemic histiocytosis\""
+    },
+    {
+        "question": "CURB65 score is used for stratification of which disease?",
+        "exact_answer": [
+            "pneumonia"
+        ],
+        "generated_answer": "\"community acquired pneumonia\""
+    },
+    {
+        "question": "Which resource has been developed in order to study the transcriptional regulation of GABAergic cell fate?",
+        "exact_answer": [
+            "Subpallial Enhancer Transgenic Lines"
+        ],
+        "generated_answer": "\"Subpallial Enhancer Transgenic Lines\", \"Data and Tool Resource\", \"Transcriptional Regulation of GABAergic Cell Fate\""
+    },
+    {
+        "question": "What is a SERM?",
+        "exact_answer": [
+            "Selective Estrogen Receptor Modulator"
+        ],
+        "generated_answer": "\"selective estrogen receptor modulator\",\n\"selective estrogen receptor modulators\",\n\"selective estrogen receptor modulator (serm)\",\n\"selective oestrogen receptor modulators\",\n\"selective estrogen receptor modulators (serms)\""
+    },
+    {
+        "question": "Which resource contains accurate enhancer predictions in the developing limb?",
+        "exact_answer": [
+            "Limb-Enhancer Genie (LEG)"
+        ],
+        "generated_answer": "\"Limb-Enhancer Genie\""
+    },
+    {
+        "question": "What is the first line treatment for sarcoidosis?",
+        "exact_answer": [
+            "Corticosteroids"
+        ],
+        "generated_answer": "\"Corticosteroids\", \"Glucocorticoids\", \"Oral glucocorticoids\", \"Prednisone\", \"Methotrexate\""
+    },
+    {
+        "question": "Which personality disorder is treated using dialectical behavior therapy?",
+        "exact_answer": [
+            "borderline personality disorder"
+        ],
+        "generated_answer": "\"Borderline Personality Disorder\", \"Disruptive Behavior Disorders\""
+    },
+    {
+        "question": "What cellular process are okazaki fragments associated with?",
+        "exact_answer": [
+            "DNA replication"
+        ],
+        "generated_answer": "\"DNA replication\", \"lagging strand synthesis\", \"Okazaki fragment processing\", \"DNA repair\", \"genome integrity maintenance\""
+    },
+    {
+        "question": "Clue cells are characteristics to which causative bacteria of vaginitis?",
+        "exact_answer": [
+            "Gardnerella vaginalis"
+        ],
+        "generated_answer": "\"Gardnerella vaginalis\", \"Trichomonas vaginalis\", \"Candida sp\", \"Coccobacilli\""
+    },
+    {
+        "question": "Which disease is diagnosed using the Finkelstein's test?",
+        "exact_answer": [
+            "de Quervain's disease"
+        ],
+        "generated_answer": "\"de Quervain's disease\", \"tenosynovitis\""
+    },
+    {
+        "question": "For which type of cancer can uc.189 be used as a potential prognostic biomarker?",
+        "exact_answer": [
+            "Esophageal squamous cell carcinomas (ESCC)"
+        ],
+        "generated_answer": "\"esophageal squamous cell carcinomas\""
+    },
+    {
+        "question": "What causes Black Lung?",
+        "exact_answer": [
+            "Chronic exposure to coal dust"
+        ],
+        "generated_answer": "\"respirable coal mine dust\", \"coal workers' pneumoconiosis\", \"coal miners\", \"Federal Coal Mine Health and Safety Act of 1969\", \"respiratory system\""
+    },
+    {
+        "question": "Which package in Bioconductor has been developed with the aim to analyze differential DNA loops from sequencing data?",
+        "exact_answer": [
+            "Diffloop"
+        ],
+        "generated_answer": "\"diffloop\""
+    },
+    {
+        "question": "Which disease can be diagnosed with the \"probe to bone\" test?",
+        "exact_answer": [
+            "diabetic foot osteomyelitis"
+        ],
+        "generated_answer": "\"diabetic foot osteomyelitis\", \"osteomyelitis\", \"diabetic foot\""
+    },
+    {
+        "question": "What body process does the Dentate Gyrus Mossy Cell control?",
+        "exact_answer": [
+            "eplipsy and cognition"
+        ],
+        "generated_answer": "\"Zn/lipid metabolism\", \"excitatory principal cell type\", \"pattern separation\", \"memory function\", \"hippocampal-related cognitive deficits\""
+    },
+    {
+        "question": "Which ligament is most commonly injured in dashboard injury?",
+        "exact_answer": [
+            "Posterior cruciate ligament"
+        ],
+        "generated_answer": "PCL"
+    },
+    {
+        "question": "What is the normal body temperature in dogs?",
+        "exact_answer": [
+            "101 to 102.5 degrees Fahrenheit  or 38.3 to 39.2 degrees Celsius"
+        ],
+        "generated_answer": "\"38.3\u00b0C\", \"37.7\u00b0C\""
+    },
+    {
+        "question": "Which tool exists for microsatellite (SSR) loci detection and primer design?",
+        "exact_answer": [
+            "FullSSR"
+        ],
+        "generated_answer": "\"FullSSR\", \"Microsatellite Finder and Primer Designer\""
+    },
+    {
+        "question": "Treatment of which disease was studied in the Gore REDUCE Clinical Study?",
+        "exact_answer": [
+            "patent foramen ovale"
+        ],
+        "generated_answer": "\"patent foramen ovale\", \"cryptogenic stroke\""
+    },
+    {
+        "question": "What is the link between psoriatic arthritis and depression",
+        "exact_answer": [
+            "comorbidity"
+        ],
+        "generated_answer": "\"Increased risk\", \"Association\", \"Comorbidities\""
+    },
+    {
+        "question": "What is the preDIVA clinical trial?",
+        "exact_answer": [
+            "Prevention of Dementia by Intensive Vascular Care"
+        ],
+        "generated_answer": "\"Prevention of Dementia by Intensive Vascular care\", \"PreDIVA\""
+    },
+    {
+        "question": "What effect does azeliragon have on RAGE?",
+        "exact_answer": [
+            "Inhibitory"
+        ],
+        "generated_answer": "\"inhibitor\", \"receptor\", \"advanced\", \"glycation\", \"end\", \"products\""
+    },
+    {
+        "question": "What is the drug forxiga used for?",
+        "exact_answer": [
+            "Treatment of patients with type 2 diabetes."
+        ],
+        "generated_answer": "\"SGLT 2 cotransporter inhibitor\", \"glucose-lowering agent\", \"type 2 diabetes\""
+    },
+    {
+        "question": "What is the most common feature of the Doege\u2013Potter syndrome?",
+        "exact_answer": [
+            "hypoglycemia"
+        ],
+        "generated_answer": "\"solitary fibrous tumor of the pleura\", \"hypoglycemia\""
+    },
+    {
+        "question": "Milwaukee protocol was tested for treatment of which disease?",
+        "exact_answer": [
+            "rabies"
+        ],
+        "generated_answer": "\"rabies\""
+    },
+    {
+        "question": "What does intepirdine target?",
+        "exact_answer": [
+            "5-HT6"
+        ],
+        "generated_answer": "\"5-HT-6 receptor\", \"AD symptomatology\", \"5-HT6 physiology\", \"AD symptom pathophysiology\", \"ChEI's\", \"NMDA receptor antagonists\""
+    },
+    {
+        "question": "Which R package has been developed for analyzing Non-invasive prenatal testing (NIPT) data?",
+        "exact_answer": [
+            "RAPIDR (Reliable Accurate Prenatal non-Invasive Diagnosis R package)"
+        ],
+        "generated_answer": "\"RAPIDR\","
+    },
+    {
+        "question": "Which method is available for whole genome identification of pathogenic regulatory variants in mendelian disease?",
+        "exact_answer": [
+            "Genomiser"
+        ],
+        "generated_answer": "\"Genomiser\", \"CADD\", \"ML method\""
+    },
+    {
+        "question": "In what phase of clinical trials is crenezumab? (November 2017)",
+        "exact_answer": [
+            "Phase III"
+        ],
+        "generated_answer": "\"Phase III\", \"III\", \"3\""
+    },
+    {
+        "question": "Which sequence-based algorithm for branch point prediction has been proposed?",
+        "exact_answer": [
+            "BPP"
+        ],
+        "generated_answer": "BPP"
+    },
+    {
+        "question": "What organism causes scarlet fever also known as scarletina?",
+        "exact_answer": [
+            "Group A Streptococcus or Streptococcus pyogenes"
+        ],
+        "generated_answer": "\"Group A Streptococcus\", \"Streptococcus pyogenes\", \"Streptococcus haemolyticus\""
+    },
+    {
+        "question": "What is the BioArchive system?",
+        "exact_answer": [
+            "automated cryopreservation and storage system"
+        ],
+        "generated_answer": "\"automated cryopreservation and storage system\", \"Mini-BioArchive system\", \"Bioarchive system\""
+    },
+    {
+        "question": "Which algorithm has been proposed for efficient storage of WGS variant calls?",
+        "exact_answer": [
+            "SeqArray"
+        ],
+        "generated_answer": "\"SeqArray\", \"VCF\", \"BCF\", \"BGT\""
+    },
+    {
+        "question": "Which protein is regulated by Tudor interacting repair regulator (TIRR)?",
+        "exact_answer": [
+            "P53-binding protein 1",
+            "53BP1"
+        ],
+        "generated_answer": "\"53BP1\", \"TIRR\""
+    },
+    {
+        "question": "Which algorithm is used for detection of long repeat expansions?",
+        "exact_answer": [
+            "ExpansionHunter"
+        ],
+        "generated_answer": "\"ExpansionHunter\""
+    },
+    {
+        "question": "Which brain tumors does neuroligin-3 promote?",
+        "exact_answer": [
+            "high-grade gliomas"
+        ],
+        "generated_answer": "\"glioma\", \"GBM\", \"DIPG\""
+    },
+    {
+        "question": "Which web resource for LIR motif-containing proteins in eukaryotes has been developed?",
+        "exact_answer": [
+            "The iLIR database"
+        ],
+        "generated_answer": "\"iLIR database\", \"https://ilir.warwick.ac.uk\""
+    },
+    {
+        "question": "What is liquid liquid phase transition?",
+        "exact_answer": [
+            "membrane-free microcompartments"
+        ],
+        "generated_answer": "\"crowding-induced liquid/liquid phase separation\", \"liquid-liquid phase transitions\", \"liquid-liquid phase separations\", \"liquid-liquid phase\", \"liquid-liquid phase separation\""
+    },
+    {
+        "question": "What is the approximate size of gas vesicles?",
+        "exact_answer": [
+            "100 nm"
+        ],
+        "generated_answer": "\"100 nm\", \"50 nm\", \"20 nm\", \"10 nm\", \"5 nm\""
+    },
+    {
+        "question": "What is the proteoform?",
+        "exact_answer": [
+            "proteoforms are protein products with various primary structure alterations resulting from gene mutations, alternative splicing, post-translational modifications, and other biological processes"
+        ],
+        "generated_answer": "\"splice variants\", \"single amino acid substitutions (SAP variants)\", \"post-translational modifications (PTM)\""
+    },
+    {
+        "question": "How does neuronal activity affect neuroligin-3?",
+        "exact_answer": [
+            "Induces secretion"
+        ],
+        "generated_answer": "\"secretion\", \"promotion\", \"glioma\", \"proliferation\""
+    },
+    {
+        "question": "Sclerostin regulates what process?",
+        "exact_answer": [
+            "bone metabolism"
+        ],
+        "generated_answer": "\"bone formation\", \"Wnt/\u03b2-catenin signaling\", \"Wnt signaling pathway\", \"Wnt signaling\", \"osteoblast differentiation\", \"bone mass\", \"osteoblast function\", \"carbonic anhydrase 2\", \"BMPs\", \"osteocyte\", \"osteoclast\", \"bone mineral\", \"articular cartilage\", \"bone growth\", \"bone remodeling\", \"bone repair process\""
+    },
+    {
+        "question": "What is the association of the protein RAB10 and Alzheimers disease?",
+        "exact_answer": [
+            "RAB10 may be potential biomarkers of AD"
+        ],
+        "generated_answer": "\"target gene\", \"potential biomarker\""
+    },
+    {
+        "question": "What is emicizumab?",
+        "exact_answer": [
+            "ACE910 (emicizumab) is a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function."
+        ],
+        "generated_answer": "\"bispecific antibody\", \"factor IXa\", \"factor X\", \"hemophilia A\", \"inhibitors\""
+    },
+    {
+        "question": "Which is the function of ubiquilins?",
+        "exact_answer": [
+            "Ubiquilins, a family of ubiquitin-binding proteins, are involved in all protein degradation pathways."
+        ],
+        "generated_answer": "\"Ubiquitin receptors\", \"Adaptor proteins\", \"Protein degradation\", \"Proteasomal degradation\", \"Ubiquitinated substrates\""
+    },
+    {
+        "question": "Which algorithm has been developed for prediction of protein subcellular localization using deep learning?",
+        "exact_answer": [
+            "DeepLoc"
+        ],
+        "generated_answer": "\"DeepLoc\", \"Deep learning\", \"Protein subcellular localization\", \"Prediction\", \"Algorithm\""
+    },
+    {
+        "question": "Gallbladder carriage is a well recognised means of spread of which bacteria?",
+        "exact_answer": [
+            "Salmonella Typhi"
+        ],
+        "generated_answer": "\"Salmonella enterica serotype Typhi\""
+    },
+    {
+        "question": "Which disease is treated with Fexinidazole?",
+        "exact_answer": [
+            "human african  trypanosomiasis"
+        ],
+        "generated_answer": "\"Chagas disease\", \"Human African trypanosomiasis\""
+    },
+    {
+        "question": "What part of what body organ controls the circadian clock?",
+        "exact_answer": [
+            "suprachiasmatic nucleus (SCN) of the hypothalamus in the brain"
+        ],
+        "generated_answer": "\"suprachiasmatic nucleus\", \"hypothalamus\""
+    },
+    {
+        "question": "What does MetaHIT stand for?",
+        "exact_answer": [
+            "Metagenomics of the Human Intestinal Tract"
+        ],
+        "generated_answer": "\"Metagenomics of the Human Intestinal Tract\","
+    },
+    {
+        "question": "What drug cures hepatitis C?",
+        "exact_answer": [
+            "Sofosbuvir based therapy"
+        ],
+        "generated_answer": "\"sofosbuvir\""
+    },
+    {
+        "question": "What can be predicted with the Wells criteria?",
+        "exact_answer": [
+            "pulmonary embolism"
+        ],
+        "generated_answer": "\"Wells score\", \"clinical probability of PE\", \"pretest probability\", \"pulmonary embolism prevalence\""
+    },
+    {
+        "question": "What is the drug Tecfidera used against?",
+        "exact_answer": [
+            "Tecifidera is approved for the treatment of relapsing-remitting multiple sclerosis"
+        ],
+        "generated_answer": "\"multiple sclerosis\", \"relapsing forms of multiple sclerosis\""
+    },
+    {
+        "question": "Dinutuximab is used for treatment of which disease?",
+        "exact_answer": [
+            "neuroblastoma"
+        ],
+        "generated_answer": "\"neuroblastoma\", \"high-risk neuroblastoma\", \"GD2\", \"anti-GD2 monoclonal antibody\", \"anti-GD2 antibody\""
+    },
+    {
+        "question": "What is the ChIP-exo method used for?",
+        "exact_answer": [
+            "location of DNA binding proteins at high resolution"
+        ],
+        "generated_answer": "\"Identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy\", \"Identifying Protein-DNA Interactions with Near Base Pair Precision\", \"Precise Identification of DNA-Binding Proteins Genomic Location by Exonuclease Coupled Chromatin Immunoprecipitation (ChIP-exo)\""
+    },
+    {
+        "question": "Where do mitochondrial DNA deletion breakpoints tend to occur?",
+        "exact_answer": [
+            "Near mitochondrial G-rich sequences "
+        ],
+        "generated_answer": "\"within 20 base pairs\", \"proximal\", \"human disease\", \"in vitro\", \"human renal cell carcinoma\""
+    },
+    {
+        "question": "Which is the enzymatic activity of nardilysin?",
+        "exact_answer": [
+            "Nardilysin (N-arginine dibasic convertase; Nrdc) is a metalloendopeptidase of the M16 family that promotes ectodomain shedding of the precursor forms of various growth factors and cytokines by enhancing the protease activities of a disintegrin and metalloproteinase (ADAM) proteins."
+        ],
+        "generated_answer": "\"metalloendopeptidase\", \"M16 family\", \"ectodomain shedding\", \"ADAM proteins\""
+    },
+    {
+        "question": "The Mantoux test detects what latent infection/disease?",
+        "exact_answer": [
+            "tuberculosis"
+        ],
+        "generated_answer": "\"tuberculosis\", \"tuberculin skin test\""
+    },
+    {
+        "question": "What is measured with the Proseek panels?",
+        "exact_answer": [
+            "Differnet Proseek multiplex protein biomarker panels exists: CVD, inflammatory, neurology and oncology biomarker."
+        ],
+        "generated_answer": "\"92 inflammation-related proteins\", \"92 cancer biomarkers\", \"82 proteins\", \"92 inflammatory proteins\", \"92 inflammation-associated proteins\""
+    },
+    {
+        "question": "The common house cat, Felis silvestris catus and the domestic dog, Canis familiaris both belong to what taxonomic order?",
+        "exact_answer": [
+            "Carnivora"
+        ],
+        "generated_answer": "\"Carnivora\", \"order\", \"Felis silvestris catus\", \"Canis familiaris\""
+    },
+    {
+        "question": "In which syndrome is the RPS19 gene most frequently mutated?",
+        "exact_answer": [
+            "Diamond-Blackfan Anemia",
+            "DBA"
+        ],
+        "generated_answer": "\"Diamond-Blackfan anemia\", \"DBA\""
+    },
+    {
+        "question": "What type of sequences do enhancers evolve from?",
+        "exact_answer": [
+            "exaptation of ancestral DNA"
+        ],
+        "generated_answer": "\"weak ancestral activity\", \"ancestral DNA exaptation\", \"lineage-specific expansions of repeat elements\""
+    },
+    {
+        "question": "What nerve is involved in carpal tunnel syndrome?",
+        "exact_answer": [
+            "median"
+        ],
+        "generated_answer": "\"median nerve\", \"ulnar nerve\", \"radial nerve\", \"sciatic nerve\", \"tibial nerve\""
+    },
+    {
+        "question": "What is the function of LOX proteins in the ECM?",
+        "exact_answer": [
+            "The best-studied role of LOX enzymes is the remodeling of the extracellular matrix (ECM) in animals by cross-linking collagens and elastin."
+        ],
+        "generated_answer": "\"collagen cross-linking\", \"ECM remodeling\""
+    },
+    {
+        "question": "Which olfactory gene senses androsterone?",
+        "exact_answer": [
+            "OR7D4"
+        ],
+        "generated_answer": "\"OR7D4\","
+    },
+    {
+        "question": "Where in the body would the navicular bone be found?",
+        "exact_answer": [
+            "foot"
+        ],
+        "generated_answer": "\"foot\", \"medial side\", \"proximal\", \"navicular\", \"tibialis posterior tendon\""
+    },
+    {
+        "question": "Name an lncRNA associated with dilated cardiomyopathy.",
+        "exact_answer": [
+            "lncRNA H19"
+        ],
+        "generated_answer": "\"H19\""
+    },
+    {
+        "question": "Which gene is responsible for red hair?",
+        "exact_answer": [
+            "Melanocortin 1 receptor",
+            "MC1R"
+        ],
+        "generated_answer": "\"MC1R\", \"P\", \"ASIP\", \"OCA2\", \"RHC\""
+    },
+    {
+        "question": "Which bacteria was EcoRI, restriction endonuclease isolated from?",
+        "exact_answer": [
+            "E coli"
+        ],
+        "generated_answer": "\"Escherichia coli\", \"E. coli\", \"EcoRI\""
+    },
+    {
+        "question": "Which is the main reason for the increase in the incidence of cryptococcal disease?",
+        "exact_answer": [
+            "HIV infection",
+            "HIV"
+        ],
+        "generated_answer": "\"HIV infection\", \"immunosuppression\", \"AIDS\", \"HIV/AIDS\", \"HIV disease\""
+    },
+    {
+        "question": "Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?",
+        "exact_answer": [
+            "Uncoupling protein 1",
+            "UCP1"
+        ],
+        "generated_answer": "\"uncoupling protein 1 (UCP1)\", \"JAK2\", \"brown adipocytes (BAs)\", \"mitochondrial uncoupling protein (UCP)-1\", \"fatty acids\""
+    },
+    {
+        "question": "Which method is Proseek based on?",
+        "exact_answer": [
+            "proximity extension immunoassay",
+            "PEA"
+        ],
+        "generated_answer": "\"Proximity Extension ImmunoAssay\", \"PEA\""
+    },
+    {
+        "question": "What is the function of HDAC  proteins?",
+        "exact_answer": [
+            "HDACs regulate chromatin structure and gene expression"
+        ],
+        "generated_answer": "\"key regulators of gene expression\", \"critical role in transcriptional regulation and carcinogenesis\", \"major role in epigenetic regulation of chromatin structure\", \"modify core histones and participate in large regulatory complexes that both suppress and enhance transcription\", \"modulate chromatin compaction\""
+    },
+    {
+        "question": "What is the H4S47C cleavage mapping method used for?",
+        "exact_answer": [
+            "nucleosome positioning",
+            "H4 position"
+        ],
+        "generated_answer": "\"genome-wide nucleosome mapping\", \"alternative nucleosome structures\", \"asymmetric histone-DNA interactions\", \"MNase sequence-based profiles\", \"precise position of histone H4\""
+    },
+    {
+        "question": "Which human gene encode for DNA polymerase \u03b8?",
+        "exact_answer": [
+            "DNA polymerase theta (pol \u03b8) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes"
+        ],
+        "generated_answer": "\"POLQ\","
+    },
+    {
+        "question": "In what percentage of skeletal muscle fibers is dystrophin expression restored after PPMO- mediated exon skipping?",
+        "exact_answer": [
+            "100%"
+        ],
+        "generated_answer": "\"nearly 100%\", \"100%\""
+    },
+    {
+        "question": "Which miRNA is associated with the circular RNA ciRS-7?",
+        "exact_answer": [
+            "miR-7"
+        ],
+        "generated_answer": "\"miR-7\", \"miR-7-5p\", \"miR-7-3p\", \"miR-7-5p-3p\", \"miR-7-3p-5p\""
+    },
+    {
+        "question": "Which are the two main bacterial phyla in human gut?",
+        "exact_answer": [
+            "Bacteroidetes and Firmicutes"
+        ],
+        "generated_answer": "\"Firmicutes\", \"Bacteroidetes\""
+    },
+    {
+        "question": "Which test is used for the definition of colour-blindness?",
+        "exact_answer": [
+            "Ishihara test",
+            "Ishihara"
+        ],
+        "generated_answer": "\"Ishihara test\", \"Ishihara-tests\""
+    },
+    {
+        "question": "Of what origin is the MCF-7 cell line?",
+        "exact_answer": [
+            "MCF7 is an ER+ breast cancer cell line"
+        ],
+        "generated_answer": "\"breast carcinoma cells\", \"adenocarcinoma cell lines\""
+    },
+    {
+        "question": "Cytochrome p450 CYP3A is induced by rifampicin  and compounds used to treat what virus?",
+        "exact_answer": [
+            "HIV"
+        ],
+        "generated_answer": "\"HIV\", \"hepatitis C\""
+    },
+    {
+        "question": "Which human chromosome is the product of fusion?",
+        "exact_answer": [
+            "chromosome 2",
+            "2"
+        ],
+        "generated_answer": "\"2\", \"4\", \"19\""
+    },
+    {
+        "question": "Where is the EpCam protein mainly located?",
+        "exact_answer": [
+            "transmembrane expression"
+        ],
+        "generated_answer": "\"cytoplasmic/nuclear\", \"membranous\""
+    },
+    {
+        "question": "What is the drug target for Eliquis (Apixaban)?",
+        "exact_answer": [
+            "factor Xa"
+        ],
+        "generated_answer": "\"factor Xa\", \"coagulation factor Xa\", \"FXa\", \"Xa inhibitors\", \"direct factor Xa inhibitor\", \"factor Xa inhibitor\", \"direct FXa-inhibitors\", \"direct FXa-inhibitor\", \"direct FXa inhibitor\", \"factor Xa inhibitors\", \"factor Xa-inhibitors\", \"factor Xa-inhibitor\", \"factor Xa-inhibitors\", \"factor Xa-inhibitors\", \"factor Xa-inhibitors\", \"factor Xa-inhibitors\", \"factor Xa-inhibitors\", \"factor Xa-inhibitors\","
+    },
+    {
+        "question": "What is the Formalin test used for?",
+        "exact_answer": [
+            "pain modeling"
+        ],
+        "generated_answer": "\"experimental nociception\", \"in vivo antinociceptive activity\", \"model of persistent pain\", \"nociceptive activity\", \"reliable way of producing and quantifying nociception\""
+    },
+    {
+        "question": "What drug treatment can cause a spinal epidural hematoma?",
+        "exact_answer": [
+            "Anticoagulant therapy"
+        ],
+        "generated_answer": "\"antiplatelet drugs\", \"anticoagulant medications\""
+    },
+    {
+        "question": "What is the nucleotide composition of the Lamin Associated Domains (LADs)?",
+        "exact_answer": [
+            "A/T rich sequences"
+        ],
+        "generated_answer": "\"A/T\", \"A/T-rich\", \"high A/T content\""
+    },
+    {
+        "question": "What is the clathrin triskelia structure?",
+        "exact_answer": [
+            "A three-legged pinwheel-shaped heteropolymer."
+        ],
+        "generated_answer": "\"three clathrin heavy chains\", \"associated clathrin light chains\", \"triskelion\", \"polyhedral cages\", \"pentagonal and hexagonal faces\""
+    },
+    {
+        "question": "What percentage of Homo sapiens DNA is of Neanderthal origin?",
+        "exact_answer": [
+            "2-4%"
+        ],
+        "generated_answer": "\"2-4%\", \"2%\", \"4%\", \"2\", \"4\""
+    },
+    {
+        "question": "What is an exosome?",
+        "exact_answer": [
+            "Exosomes are a subset of extracellular vesicles (EVs) that have important roles in intercellular communication. They contain and carry bioactive molecules within their membranes which are delivered to target cells."
+        ],
+        "generated_answer": "\"small extracellular membrane-based vesicles\", \"subset of extracellular vesicles\", \"released by cells as self-contained vesicles\", \"intact lipid bilayer\", \"encapsulates a small portion of the parent cell\""
+    },
+    {
+        "question": "Are human enhancers or promoters evolving faster?",
+        "exact_answer": [
+            "enhancers"
+        ],
+        "generated_answer": "\"enhancers\", \"enhancers\", \"enhancers\", \"enhancers\", \"enhancers\""
+    },
+    {
+        "question": "What biologic process in the body is associated with Mast cells?",
+        "exact_answer": [
+            "allergy"
+        ],
+        "generated_answer": "\"innate immunity\", \"adaptive immune reactions\", \"host defense mechanisms\", \"tissue repair and angiogenesis\", \"immunomodulation of the immune system\""
+    },
+    {
+        "question": "What causes leishmaniasis?",
+        "exact_answer": [
+            "Leishmania Species"
+        ],
+        "generated_answer": "\"Leishmania parasites\", \"Leishmania protozoa\", \"Leishmania protozoan parasites\", \"Leishmania protozoan parasite\", \"Leishmania protozoan\", \"Leishmania\", \"Leishmania donovani\", \"Leishmania major\", \"Leishmania (Leishmania) donovani\", \"Leishmania (Leishmania) major\", \"Leishmania (Leishmania)\", \"Leishmania (Leishmania) amazonensis\", \"Leishmania (L.) amazonensis\", \"Leishmania (L.) infantum\", \"Leish"
+    },
+    {
+        "question": "What part of the body is affected by mesotheliomia?",
+        "exact_answer": [
+            "lining of the lungs and chest wall"
+        ],
+        "generated_answer": "\"pleura\", \"mesothelial surface\""
+    },
+    {
+        "question": "What is BORSA?",
+        "exact_answer": [
+            "Borderline oxacillin-resistant Staphylococcus aureus"
+        ],
+        "generated_answer": "\"Borderline oxacillin-resistant Staphylococcus aureus\", \"BORSA\", \"Borderline oxacillin-resistant S. aureus\", \"BORSA; mecA-negative, oxacillin MICs of 2 to 8 microgram/ml\""
+    },
+    {
+        "question": "Which gene is responsible for proper speech development?",
+        "exact_answer": [
+            "FOXP2"
+        ],
+        "generated_answer": "FOXP2"
+    },
+    {
+        "question": "What is PNPPP?",
+        "exact_answer": [
+            "personally normalized plasma protein profiles"
+        ],
+        "generated_answer": "\"personally normalized plasma protein profiles\""
+    }
+]

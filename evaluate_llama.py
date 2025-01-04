@@ -1,9 +1,10 @@
 import json
 import re
 import unicodedata
+from pathlib import Path
+import logging
 
-with open('valid_generated_llama_6B.json', 'r') as f:
-    data = json.load(f)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 def normalize_answer(answer):
     """Normalize answer by lowercasing, removing punctuation, stripping whitespace, and handling special characters."""
@@ -15,6 +16,7 @@ def normalize_answer(answer):
     return answer
 
 def strict_accuracy(data):
+    """Calculate strict accuracy."""
     correct = 0
     total = len(data)
     for item in data:
@@ -25,6 +27,7 @@ def strict_accuracy(data):
     return correct / total
 
 def lenient_accuracy(data):
+    """Calculate lenient accuracy."""
     correct = 0
     total = len(data)
     for item in data:
@@ -35,28 +38,61 @@ def lenient_accuracy(data):
     return correct / total
 
 def mean_reciprocal_rank(data, k):
+    """Calculate Mean Reciprocal Rank (MRR)."""
     total_reciprocal_rank = 0
     total = len(data)
     for item in data:
         normalized_exact_answer = [normalize_answer(ans) for ans in item['exact_answer']]
         normalized_generated_answer = [normalize_answer(ans) for ans in item['generated_answer'][:k]]
-        
-        found = False
         for rank, ans in enumerate(normalized_generated_answer, start=1):
             if ans in normalized_exact_answer:
                 total_reciprocal_rank += 1 / rank
-                found = True
                 break
-        if not found:
-            total_reciprocal_rank += 0 
     return total_reciprocal_rank / total
 
-K = 5
+def evaluate_file(input_file_path, k=5):
+    """Evaluate a single file and return the metrics."""
+    try:
+        with open(input_file_path, 'r') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        logging.error(f"File not found: {input_file_path}")
+        return None
+    except json.JSONDecodeError:
+        logging.error(f"Error decoding JSON file: {input_file_path}")
+        return None
 
-strict_acc = strict_accuracy(data)
-lenient_acc = lenient_accuracy(data)
-mrr = mean_reciprocal_rank(data, K)
+    strict_acc = strict_accuracy(data)
+    lenient_acc = lenient_accuracy(data)
+    mrr = mean_reciprocal_rank(data, k)
 
-print(f"Strict Accuracy at K={K}: {strict_acc:.2%}")
-print(f"Lenient Accuracy: {lenient_acc:.2%}")
-print(f"Mean Reciprocal Rank (MRR) at K={K}: {mrr:.2f}")
+    return {
+        "strict_accuracy": strict_acc,
+        "lenient_accuracy": lenient_acc,
+        "mrr": mrr
+    }
+
+def process_all_files(input_dir, output_file, k=5):
+    """Evaluate all JSON files in a directory and save the results."""
+    input_dir = Path(input_dir)
+    results = {}
+
+    for json_file in input_dir.glob("*.json"):
+        logging.info(f"Processing file: {json_file}")
+        metrics = evaluate_file(json_file, k)
+        if metrics:
+            results[json_file.stem] = metrics
+
+    with open(output_file, 'w') as f:
+        json.dump(results, f, indent=4)
+    logging.info(f"Results saved to {output_file}")
+
+if __name__ == "__main__":
+    # Input directory containing JSON files
+    input_dir = "llama3_chatqa_answers/validated_llama3_chatqa_answers"
+    # Output file for results
+    output_file = "evaluation_results.json"
+    # Set top-K for MRR
+    K = 5
+
+    process_all_files(input_dir, output_file, K)
